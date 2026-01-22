@@ -4,7 +4,7 @@
 This project is an AI-powered system that converts handwritten notes into editable Microsoft Word documents (.docx). It is specifically designed to handle dense, multi-line handwritten content like academic notes.
 
 ## 🚀 Live Demo
-**[Insert Your Hugging Face Space Link Here]**
+**m-ibby04-handwritten-to-word-converter.hf.space**
 
 ## 🧠 Technical Highlights
 - **Engine:** Transitioned from TrOCR to **EasyOCR** to better handle full-page layouts and prevent common hallucinations.
@@ -14,4 +14,5 @@ This project is an AI-powered system that converts handwritten notes into editab
 ## 🛠️ How to Run Locally
 1. Clone the repo: `git clone <https://github.com/M-ibby04/handwritten-to-word-converter>
 2. Install dependencies: `pip install -r requirements.txt`
+
 3. Launch app: `python app.py`
