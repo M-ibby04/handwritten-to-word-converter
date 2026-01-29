@@ -1,7 +1,4 @@
 gradio
-easyocr
-torch
-torchvision
-opencv-python-headless
+groq
 python-docx
-numpy
+Pillow
